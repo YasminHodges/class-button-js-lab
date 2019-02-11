@@ -20,6 +20,7 @@
     grid-column: 2 / -2;
     border: solid darkslategray 3px;
     padding-top: 60px;
+
 }
 
 .button {
@@ -32,4 +33,10 @@
     transform: scale(1.1);
     background-color: darkslategrey;
     color: white;
+}
+
+#target:hover {
+    transform: scale(1.1);
+    background-color:darkslategrey;
+    color:white;
 }
